@@ -1,7 +1,7 @@
 getwd()
 setwd("C:/Users/kmmr-/Desktop/R ディレクトリ")
 
-
+alska
 
 #5.2 Install our first package: tidyverse
 install.packages("tidyverse")
